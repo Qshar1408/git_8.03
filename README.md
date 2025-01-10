@@ -34,3 +34,6 @@
 
 ### №2
 ![GitLab_002](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_002.png)
+
+### №3
+![GitLab_003](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_003.png)
