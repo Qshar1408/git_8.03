@@ -31,3 +31,6 @@
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 ### №1
 ![GitLab_001](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_001.png)
+
+### №2
+![GitLab_002](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_002.png)
