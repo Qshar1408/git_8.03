@@ -37,3 +37,5 @@
 
 ### №3
 ![GitLab_003](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_003.png)
+![GitLab_004](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_004.png)
+![GitLab_005](https://github.com/Qshar1408/git_8.03/blob/main/img/GitLab_005.png)
